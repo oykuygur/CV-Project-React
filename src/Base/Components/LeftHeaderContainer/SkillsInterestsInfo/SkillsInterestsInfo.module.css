@@ -1,0 +1,13 @@
+.skillsInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: start;
+    margin: 2px; 
+}
+.skillsInfo p{
+    color: #c8cdd3;
+    font-size: 13px;
+    margin: 4px ;
+    opacity: 0.8;
+}

@@ -1,0 +1,53 @@
+.RightHeaderContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 18px;
+    margin:7px 40px 0px 35px;
+}
+.RightHead p{
+    margin: 0px 0px 2px 5px;
+    display: flex;
+    justify-content: flex-start;
+}
+.righticoncontainer{
+    display: flex;
+    flex-direction: row;
+}
+.righticoncontainer img{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    padding: 4px;
+    background-color: rgb(255, 191, 0);
+}
+.rightLineContainer{
+    width: 300px;
+    height: 2px;
+    background-color: #d5dade;
+    border-radius: 100px;
+    margin-bottom: 10px;
+}
+.rightLineContaineryellow{
+    width: 50px;
+    height: 100%;
+    border-radius: 100px;
+    background-color:rgb(255, 191, 0) ;
+}
+.contentright{
+    font-size: 13px;
+    margin-left:25px;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+.innerrighticoncontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15px;
+    height: 15px;
+    padding: 4px;
+    border-radius: 50%;
+    background-color:rgb(255, 191, 0) ;
+}

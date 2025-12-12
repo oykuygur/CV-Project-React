@@ -1,0 +1,16 @@
+.ExperienceInfo{
+    display: flex;
+    text-align: start;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+.ExperienceInfo p{
+    margin: 0px;
+}
+.innertitle{
+    margin: 2px 0px 4px 0px !important;
+    font-size: 15px;
+}
+.timemargin{
+    margin-bottom: 6px !important;
+}

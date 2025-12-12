@@ -1,0 +1,16 @@
+.Content{
+    display: flex;
+    justify-content:start;
+    flex-direction: column;
+    margin: 4px;
+    text-align: start;
+}
+.Content p {
+    color: #c8cdd3;
+    font-size: 13px;
+    margin: 0px;
+    opacity: 0.8;
+}
+.yellow{
+    color: rgb(255, 191, 0) !important;
+}

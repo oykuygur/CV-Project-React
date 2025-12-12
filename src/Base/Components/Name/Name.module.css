@@ -1,0 +1,15 @@
+.namecontainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font: 17px; 
+}
+.namecontainer h2{
+    color: rgb(255, 191, 0);
+    margin: 0px;
+    margin-top: 10px;
+}
+.namecontainer p{
+    color: rgb(171, 178, 184);
+    margin: 0px;
+}

@@ -1,0 +1,40 @@
+.LeftHeaderContainer{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    margin:10px 30px 5px 30px;
+}
+.iconcontainer{
+    display: flex;
+    flex-direction: row;
+}
+.Head p{
+    margin: 0px 0px 4px 5px;
+    color:rgb(255, 191, 0) ; 
+    display: flex; 
+    align-items: flex-start; 
+}
+.LineContainer{
+    width:180px;
+    height: 2px;
+    background-color: rgb(55, 62, 79);
+    margin-left: 5px,0px,5px,5px;
+    border-radius: 100px;
+}
+.LineContaineryellow{
+    width: 30px;
+    height: 100%;
+    background-color:rgb(255, 191, 0) ;
+    border-radius: 100px;
+}
+.innericoncontainer{
+    background-color: rgb(255, 191, 0) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+  
+}

@@ -1,0 +1,8 @@
+.ProfileInfo{
+    display: flex;
+    justify-content: flex-start;
+    text-align:start;
+}
+.ProfileInfo p{
+    margin: 0px;
+}
